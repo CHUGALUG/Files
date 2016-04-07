@@ -1,0 +1,31 @@
+Title:
+
+CHUGALUG Monthly Meeting:  btrfs
+
+
+Summary:
+
+CHUGALUG, UGA's Linux users group, meets every 4th Tuesday.  All skill levels, from newbie to guru, are welcome.  This month's topic is the btrfs filesystem.  
+
+
+Setailed Description:
+
+Glory, glory to btrfs and to hell with LVM (and mdadm) 
+
+Jackson Argo
+
+
+
+Introductory portion: 
+
+We begin with a brief discussion about what a filesystem is, how they work, and why they are important. Next, I'll show a comparison of ext4, the most common Linux filesystem, with btrfs, a new and feature rich Linux filesystem. Finally, we'll look at installing and using the btrfs filesystem, along with some handy tips and tricks. 
+
+
+
+Advanced portion: 
+
+We've all gotten many miles out of the e2 filesystem family, and even alternatives like reiserfs and xfs, but Linux finally has a native filesystem with a featureset similar to Oracle's zfs. We'll look at how btrfs fixes many of the problems of ext4 and the problems that it doesn't fix, and some indepth examples of common usage such as raid, quotas, snapshots, and online scrubbing. 
+
+
+
+More info:  http://chugalug.uga.edu/

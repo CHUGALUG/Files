@@ -1,0 +1,73 @@
+2016-04-06  BLFoley
+
+These notes are not in chronological order.
+
+0.  Things overdue
+
+-- Upload general and website files to GitHub
+
+
+1.  Things that might help CHUGALUG in general
+
+-- Ask if local teachers will give extra credit to students for 
+    attending CHUGALUG meetings.
+
+-- Make general fliers, 8.5x11 and 4-up.  Deliver these to FRITA, local
+    computer repair shops, tech stores, schools, etc.
+
+-- Is there still a "Computer Science Fraternity"?
+
+-- Active members reach out to personal contacts.
+
+-- Be sure to get annoucements onto email lists.  It was noted that the
+    FRITA mail list has been dormant but might not always be.
+
+-- Make press releases and distribute to Flagpole, Red&Black, Athens
+    Banner-Herald and similar places.
+
+-- Search for useful social media managers.
+
+-- Develop a list of good contacts in the various departments at UGA
+    and at other nearby schools and colleges.  (That is, try to find
+    people who will know what CHUGALUG is and how to contact locals 
+    who might be interested.)
+
+-- Man tables occasionally at Tate.
+
+
+2.  Regarding the InstallFest
+
+-- Installing is no longer difficult.  Rename to "LinuxFest" and have
+    these properties:
+
+        * Add GNU/Linux near top, e.g., have a subtitle/tag-line that says:
+         "Come learn about and celebrate GNU/Linux!"
+
+        * Offer these three services:
+                o Install Linux on computer
+                    -- can buy one at FRITA for $15!
+                o Try out Linux on computers set up in room
+                o Get help with an existing install of Linux
+
+-- Have pot-luck-style refreshments because we have no money and because that
+    will require less planning and we have enough to do.
+
+-- Have one, aimed at locals, on the first Weds in July at Free IT Athens
+    This will span both FRITA and CHUG hours, from 6-9:30 PM.
+
+-- Have a second one, aimed at UGA students, on campus, during the fall, on a
+    day, time and place TBD.  The connector between the Science Library and Boyd
+    was suggested.  The Tate Center is another option.  Free IT Athens is warmly
+    welcome to participate in whatever capacity they wish, including bringing 
+    computers along for sale.
+
+-- Will the folks at FRITA want to restrict installation of media brought in 
+    by an attendee onto a computer owned by the attendee?
+
+
+3.  Other
+
+-- The presence of alcoholic beverages at FRITA has precedent, but it would be 
+    too much to worry with that during LinuxFest.  If individual members are
+    so moved, they may bring what they wish to the meetings.
+
