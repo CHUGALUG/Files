@@ -1,0 +1,104 @@
+CHUGALUG Meeting Notes 2016-05-04
+
+Meeting topic:  Plan for LinuxFest to be held on 6 July.
+
+7 persons in attendance
+
+First sub-topic:  What to do during the fest
+
+* No formal presentations because this is too much to organize for our first try.
+
+* Instead, have topical videos play in the background throughout the meeting.  
+   ** Suggested topics:  
+        *** Origins/History of LinuxFest
+		*** Where all Linux is used (internet, phones, etc.)
+		*** The distinction between GNU and Linux and the importance of both
+   ** Did we have volunteers?  Maybe Austin, Kofi, Chris?  Jon? James?  
+
+* Kofi will bring back swag from the SELF meeting (SouthEast LinuxFest) and display it 
+  for attendees to check out.
+		
+* Refreshments will be provided by CHUGALUG/FRITA folks on a pot-luck/volunteer basis.
+		
+* From 6-7 PM, the installations of various distros will be demonstrated, particularly 
+  difficult ones (Slackware, Arch, Gentoo), and people can later try those distros out.
+  
+* We have had one table offer from OpenSuse, which was well received.  This seems 
+  generally desirable, and we will make a general call for table displays. Due to space 
+  limitations, the maximum size should be a card table, and smaller is recommended.  
+  
+* We will encourage people to bring in distros of interest.  We will help install on the
+  attendee's computer if desired.  If not, and if a FRITA computer is available, we will
+  install it there so the person can try it out.
+  
+* We will make a general call for other ideas from the community.
+
+Second sub-topic:  Where/how to advertize 
+
+* We will make a 4-up flyer to be handed out freely at FRITA.  Chris and/or Miles and/or 
+  Lachele will produce these.
+
+* Distribute flyers to local computer businesses (GC Computer, Best Buy, etc.).  Chris 
+  volunteered to lead this.
+
+* Attend relevant MeetUps and hand out flyers.  Austin volunteered to lead this.
+
+* Definitely make it known at FourAthens.  Kofi volunteered to lead this.
+
+* Post notices in relevant online forums.
+
+* All local calendars should be notified (Flagpole, UGA Master, Frita, FourAthens, 
+  Libraries, Athens Tech, etc.)
+
+* Attempts should be made to find appropriate contacts at various schools/libraries/etc.,
+  for email notices.  James (? yes?) volunteered to help with that.
+  ** In general, try to find local contacts.
+  
+* Try submitting PSAs to WUOG and WUGA.
+
+* Take posters/flyers wherever reasonable (Tate Center, RoundSphere, FourAthens, etc.)
+
+* In any event, flyers should be made soon.
+
+Third sub-topic: Content of posters/flyers
+
+* There will be two styles:
+  ** One, a simple flyer with minimal info designed to catch the eye of passers by.
+  ** Two, a flyer with more detail to be handed out in appropriate venues (e.g., at Frita).
+  
+* Contents of the simple poster/flyer:
+  ** Day, time, location, what
+  ** Try out Linux
+  ** Learn to install Linux
+  ** Get help using Linux
+  ** Learn about linux
+  
+* The more detailed flyer will contain the above plus:
+  ** Bring your own install media or try one provided
+  ** Refreshments 
+  ** Machines w/ several distros set up and ready to try
+  ** First hour will be demonstrations of Linux being installed
+  ** [my notes say "make obvious that other stuff happens, too", but I don't recall what
+     that means]
+  ** Learn where Linux is used
+  ** Learn how to install
+  ** Learn about Linux's history
+  ** Purchase computers with Linux installed from Frita
+  ** Interact with reps from Distros 
+     *** We have one so far from OpenSuse - get blurb wording from him, possibly WRT the
+	     OpenSuse efforts to simplify making a new distro
+		 
+Fourth sub-topic: Relevant administrative tasks
+
+* Be sure to notify all mailing lists about all this
+
+* Make online sign-up list/form/sheet (Chris volunteered)
+
+* Make online agenda doc/sheet (Chris volunteered)
+
+* Should we install RedStar?
+
+* Ask the list for ideas
+
+* Make more of the generic 4-up CHUGALUG flyers 
+
