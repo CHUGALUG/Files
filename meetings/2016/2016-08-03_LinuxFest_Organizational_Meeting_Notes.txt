@@ -1,0 +1,48 @@
+CHUGALUG Meeting Notes from 2016-08-03
+BLFoley
+
+Topic:  Planning for a LinuxFest to be held on the UGA campus this Fall
+
+First choice location:  Connector between the Science Library and Boyd.
+  -- Miles will check around UGA to figure out who we need to ask for
+     permission.  Then, he will go ask for permission.  He will also see
+     if there are any staging areas where we can stash the computers and
+     such the night before.
+
+Date:  Currently thinking of Weds, 5 Oct.
+Time:  Currently thining 10 AM to 4:30 PM
+
+Publicity:  Miles will make flyers.  We will make sure that the 
+     engineering folks know about it, also the usual FB/Twitter/etc.
+
+What we plan to do:
+
+  Have a little row of 3-5 computers set up for people to try out.
+    -- Each computer has a theme, such as:
+          * Easy for new users
+          * Highly customizable
+          * Harder to set up
+          * Weird
+          * Special Purpose
+    -- Each computer will have several distros installed in VMs.
+       Through the day, we will cycle different VMs on each machine.
+       One will be full-screen (so not to confuse the users), and the
+       others will be paused (so not to tax system resources).
+    -- Have a BYOD space set up where we can help folks install the
+       OS of their choice (or any that will install, etc.).
+    -- Bring Caprica and set up a cloning station.
+    -- Have a stack of live CDs from different distros to give out
+       and let people try.  Lachele will look for a cheap source of
+       dvd drives and small (1 GB is plenty) USB sticks (because many
+       machines no longer have cd/dvd drives).  Have some CD's, too,
+       for folks who bring really old machines.
+    -- Have a table where students can talk to people from local 
+       businesses that use Linux.  Kofi and Chris will help find
+       people.  Kofi will focus on 4-Athens.  Chris will try others.
+       Lachele will see if Chuck can make it on a weekday to plug
+       Open Suse.  Google was mentioned, and maybe one of us (Chris?)
+       can try to find out how to invite them.  We worry we'd be too
+       small to be of interest.
+    -- Have a machine set up where people can learn about using 
+       VirtualBox to try out or use other distros.
+
